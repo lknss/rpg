@@ -1,0 +1,14 @@
+C:\Users\james\RiderProjects\Turn based game\bin\Debug\net9.0\Turn based game.exe
+C:\Users\james\RiderProjects\Turn based game\bin\Debug\net9.0\Turn based game.deps.json
+C:\Users\james\RiderProjects\Turn based game\bin\Debug\net9.0\Turn based game.runtimeconfig.json
+C:\Users\james\RiderProjects\Turn based game\bin\Debug\net9.0\Turn based game.dll
+C:\Users\james\RiderProjects\Turn based game\bin\Debug\net9.0\Turn based game.pdb
+C:\Users\james\RiderProjects\Turn based game\obj\Debug\net9.0\Turn based game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\RiderProjects\Turn based game\obj\Debug\net9.0\Turn based game.AssemblyInfoInputs.cache
+C:\Users\james\RiderProjects\Turn based game\obj\Debug\net9.0\Turn based game.AssemblyInfo.cs
+C:\Users\james\RiderProjects\Turn based game\obj\Debug\net9.0\Turn based game.csproj.CoreCompileInputs.cache
+C:\Users\james\RiderProjects\Turn based game\obj\Debug\net9.0\Turn based game.dll
+C:\Users\james\RiderProjects\Turn based game\obj\Debug\net9.0\refint\Turn based game.dll
+C:\Users\james\RiderProjects\Turn based game\obj\Debug\net9.0\Turn based game.pdb
+C:\Users\james\RiderProjects\Turn based game\obj\Debug\net9.0\Turn based game.genruntimeconfig.cache
+C:\Users\james\RiderProjects\Turn based game\obj\Debug\net9.0\ref\Turn based game.dll
